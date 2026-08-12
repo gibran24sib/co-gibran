@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My ApplicationGibranApps</string>
+    <string name="campus_name">Politeknik Caltex Riau</string>
+    <string name="vision_mission">Visi: Menjadi perguruan tinggi vokasi yang unggul dan bermartabat di tingkat nasional maupun internasional.\nMisi: Menyelenggarakan pendidikan vokasi yang berkualitas.</string>
+    <string name="btn_explore">Explore More</string>
+    <string name="snackbar_text">Menuju Profil PCR</string>
+
+    <!-- Profile Activity -->
+    <string name="title_history">Sejarah</string>
+    <string name="desc_history">Politeknik Caltex Riau (PCR) resmi berdiri pada tanggal 31 Agustus 2001. Kampus ini didirikan atas prakarsa PT Caltex Pacific Indonesia (sekarang PT Chevron Pacific Indonesia) bekerjasama dengan Pemerintah Provinsi Riau.</string>
+
+    <string name="title_prodi">Program Studi</string>
+    <string name="desc_prodi">PCR memiliki berbagai program studi unggulan seperti Teknik Informatika, Sistem Informasi, Teknik Elektronika, Teknik Mekatronika, dan Akuntansi Komputer.</string>
+
+    <string name="title_facilities">Fasilitas</string>
+    <string name="desc_facilities">Fasilitas di PCR meliputi laboratorium modern, perpustakaan digital, sarana olahraga, auditorium, dan koneksi internet di seluruh area kampus.</string>
+
+    <string name="btn_visit_website">Visit Website PCR</string>
+    <string name="error_webview">Gagal Memuat Website</string>
+</resources>
