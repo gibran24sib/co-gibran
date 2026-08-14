@@ -17,4 +17,22 @@
 
     <string name="btn_visit_website">Visit Website PCR</string>
     <string name="error_webview">Gagal Memuat Website</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title_1">Tentang PCR</string>
+    <string name="welcome_desc_1">Politeknik Caltex Riau adalah perguruan tinggi vokasi pertama di Riau yang berstandar internasional.</string>
+
+    <string name="welcome_title_2">Program Studi</string>
+    <string name="welcome_desc_2">Memiliki berbagai pilihan program studi diploma dan sarjana terapan yang relevan dengan industri.</string>
+
+    <string name="welcome_title_3">Kenapa Memilih PCR?</string>
+    <string name="welcome_desc_3">Lulusan berkualitas, fasilitas modern, dan hubungan erat dengan dunia industri nasional maupun internasional.</string>
+
+    <string name="btn_next">Lanjut</string>
+    <string name="btn_finish">Mulai Sekarang</string>
+
+    <!-- Bottom Nav -->
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profil</string>
+    <string name="menu_settings">Settings</string>
 </resources>
